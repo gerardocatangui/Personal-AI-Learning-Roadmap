@@ -1,5 +1,16 @@
-# Personal AI Learning Roadmap
+# Data Science & AI Learning Roadmap
 
-My Learning materials for Huawei Certified ICT Associate - AI Training (HCIA-AI)
+### Currently Taking: 
+**✅DataCamp**
+- Data Analyst in Python Career Track (Completed)
+- Data Scienctist in Python Career Track (Ongoing - 92%)
 
-Training is currently ongoing so I will have to upload my learning exercises and materials as I go.
+**✅EdX**
+- National University of Singapore (NUS) Data Science for Construction, Engineering, and Architecture (Ongoing)
+
+**✅DataQuest**
+- Data Scientist Leanring Path (Ongoing)
+
+**✅Huawei Certified ICT Associate**
+- Artificial Intelligence (AI) Track (Ongoing)
+
