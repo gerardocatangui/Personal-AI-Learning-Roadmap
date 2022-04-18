@@ -3,7 +3,7 @@
 ### Currently Taking: 
 **✅DataCamp**
 - Data Analyst in Python Career Track `(Completed)`
-- Data Scienctist in Python Career Track `(Ongoing - 92%)`
+- Data Scienctist in Python Career Track `(completed)`
 
 **✅EdX**
 - National University of Singapore (NUS) Data Science for Construction, Engineering, and Architecture `(Ongoing)`
